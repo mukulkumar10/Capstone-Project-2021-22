@@ -1,4 +1,4 @@
-## Capstone-Project-2021-22
+## Capstone-Project 2021-22
 
 # Proposed model
 Medical Image Fusion using Texture Features
