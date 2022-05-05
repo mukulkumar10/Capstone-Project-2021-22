@@ -1,6 +1,6 @@
-## Capstone-Project 2021-22
+# Capstone-Project 2021-22
 
-# Proposed model
+## Proposed model
 Medical Image Fusion using Deep Learning & Texture Features
 
 ### Requirements
@@ -17,36 +17,26 @@ Analyzation of medical images is a tedious job for the radiologists to attain mi
 
 
 
-### Results
-1. Zero Learning (VGG19 + Softmax Operator)
+# Results
+### 1. Zero Learning (VGG19 + Softmax Operator)
 ![Zero_Learning-Output](https://github.com/mukulkumar10/Capstone-Project-2021-22/blob/main/Results/Zero_Learning-Output.PNG)
 
-
-
-2. IFCNN:
+### 2. IFCNN:
 ![Ifcnn-Output](https://github.com/mukulkumar10/Capstone-Project-2021-22/blob/main/Results/Ifcnn-Output.PNG)
 
-
-
-3. IFCNN-GLCM-I
+### 3. IFCNN-GLCM-I
 ![Ifcnn-glcm-i-Output](https://github.com/mukulkumar10/Capstone-Project-2021-22/blob/main/Results/Ifcnn-glcm-i-Output.PNG)
 
-
-
-4. IFCNN-GLCM-II
+### 4. IFCNN-GLCM-II
 ![Ifcnn-glcm-ii-Output](https://github.com/mukulkumar10/Capstone-Project-2021-22/blob/main/Results/Ifcnn-glcm-ii-Output.PNG)
 
-5. IFCNN-SSIM
+### 5. IFCNN-SSIM
 ![Ifcnn_ssim-Output](https://github.com/mukulkumar10/Capstone-Project-2021-22/blob/main/Results/Ifcnn_ssim-Output.PNG)
 
-
-
-6. FunFuseAn
+### 6. FunFuseAn
 ![funfusean-Output](https://github.com/mukulkumar10/Capstone-Project-2021-22/blob/main/Results/funfusean-Output.PNG)
 
-
-
-7. Textural Weighted Fusion (Proposed Model)
+### 7. Textural Weighted Fusion (Proposed Model)
 ![Proposed_model_Output](https://github.com/mukulkumar10/Capstone-Project-2021-22/blob/main/Results/Proposed_model_Output.PNG)
 
 
