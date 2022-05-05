@@ -22,12 +22,15 @@ Analyzation of medical images is a tedious job for the radiologists to attain mi
 ![Zero_Learning-Output](https://github.com/mukulkumar10/Capstone-Project-2021-22/blob/main/Results/Zero_Learning-Output.PNG)
 
 
+
 2. IFCNN:
 ![Ifcnn-Output](https://github.com/mukulkumar10/Capstone-Project-2021-22/blob/main/Results/Ifcnn-Output.PNG)
 
 
+
 3. IFCNN-GLCM-I
 ![Ifcnn-glcm-i-Output](https://github.com/mukulkumar10/Capstone-Project-2021-22/blob/main/Results/Ifcnn-glcm-i-Output.PNG)
+
 
 
 4. IFCNN-GLCM-II
@@ -37,12 +40,15 @@ Analyzation of medical images is a tedious job for the radiologists to attain mi
 ![Ifcnn_ssim-Output](https://github.com/mukulkumar10/Capstone-Project-2021-22/blob/main/Results/Ifcnn_ssim-Output.PNG)
 
 
+
 6. FunFuseAn
 ![funfusean-Output](https://github.com/mukulkumar10/Capstone-Project-2021-22/blob/main/Results/funfusean-Output.PNG)
 
 
+
 7. Textural Weighted Fusion (Proposed Model)
 ![Proposed_model_Output](https://github.com/mukulkumar10/Capstone-Project-2021-22/blob/main/Results/Proposed_model_Output.PNG)
+
 
 ### Citation
 ```
